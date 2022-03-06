@@ -229,7 +229,7 @@ figure.highlight {
 html {
   height: 100%;
   margin: 0;
-  font-size: 62.5%;
+  font-size: 70.5%;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
@@ -273,7 +273,7 @@ blockquote p {
   z-index: 20;
 }
 .header_wrap {
-  max-width: 1200px;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
   clear: both;
@@ -460,7 +460,7 @@ blockquote p {
 }
 .page article p,
 .page article li {
-  font-size: 1.8rem;
+  font-size: 2.1rem;
 }
 .page article a {
   color: #494e52;
@@ -493,7 +493,7 @@ blockquote p {
 }
 @media screen and (min-width: 66.67em) {
   #page_main {
-    max-width: 1200px;
+    max-width: 1500px;
   }
 }
 @media (min-width: 34em) {
@@ -534,7 +534,7 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
+  max-width: 310px;
   border-radius: 50%;
 }
 .author-discrip {
@@ -546,7 +546,7 @@ blockquote p {
 }
 .author-discrip h3 {
   margin: 0px;
-  font-size: 1.8rem;
+  font-size: 2.8rem;
 }
 .author-discrip .author-bio {
   font-size: 1.2rem;
